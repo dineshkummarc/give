@@ -1,4 +1,4 @@
-//Author : Dadon Noe
+//Author : Dadon Noe -- Follow me on twitter ! twitter.com/NoeDadon
 //See the Window property 'localStorage' (page 589 JavaScript definitive guide 6th) to store all the data (otherwise
 //it will be deleted after a browser refresh)
 	
